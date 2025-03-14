@@ -96,7 +96,7 @@
 
 * Secrets Management with Key Vault
 * Security Best Practices
-* ######PROJECT##### - Integrate Azure Keyvault with Secrets Store CSI Driver
+* **PROJECT** - Integrate Azure Keyvault with Secrets Store CSI Driver
 
 # Azure Serverless
 
