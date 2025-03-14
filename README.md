@@ -24,3 +24,9 @@
 * Creating an Account with Azure
 * Exploring Regions and Availability Zones in Azure
 * IaaS vs PaaS vs SaaS models in Azure
+
+# Azure Resources,Resource Groups and Resource Manager
+
+* Resources in Azure
+* Resource Groups in Azure
+* Azure Resource Manager Overview
