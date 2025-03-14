@@ -30,3 +30,11 @@
 * Resources in Azure
 * Resource Groups in Azure
 * Azure Resource Manager Overview
+
+# Azure Virtual Machines
+
+* Virtualization recap
+* Create a Virtual Machine in Azure
+* Connect to the Virtual Machine
+* Deploy your first application on an Azure VM
+* Virtual Machine ScaleSets for Autoscaling
