@@ -15,17 +15,17 @@ Users can access and use computing resources, applications, and storage provided
 
 It is a cloud who uses it everyone, like individuals and organizations, anyone can access it.
 
-** Example: **  Google Drive, AWS etc..
+**Example:**  Google Drive, AWS etc..
 
 ## Private Cloud: ##
 
 It is accessed by particualr organization or individual who have access for that data.
 This can be required whenever an organization wants to store the confidential data like about employees, some highly demanding clients etc..
 
-** Example: ** An organization using its own server.
+**Example:** An organization using its own server.
 
 ## Hybrid Cloud: ##
 
 In this anyone can use mix of everyone (public and private cloud).
 
-** Example: **  A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
+**Example:**  A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
