@@ -3,7 +3,7 @@
 In simple terms, cloud refers to a network of remote servers where data and applications are stored and accessed over the internet, rather than on your own computer's hard drive.
 It is a vast, virtual space where you can store files, run software, and access various services over the internet.
 
-Examples like Google Drive, Netflix etc..
+**Examples** like Google Drive, Netflix etc..
 
 ## What is Cloud Computing ##
 
