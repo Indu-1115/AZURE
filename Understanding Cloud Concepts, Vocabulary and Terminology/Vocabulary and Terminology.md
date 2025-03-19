@@ -11,4 +11,8 @@ Virtual Machine **(VM)** is nothing but a software based emulation of a physical
 
 API's will allows you to communicate/exchange data between two systems. it defines how software components should interact.
 
+## Regions ##
+
+Regions refers to a geographical area where a cloud service provider (like AWS, Azure, or GCP) has established data centers and infrastructure to offer its services. Each region contains multiple data centers.
+
 
