@@ -18,3 +18,6 @@ Regions refers to a geographical area where a cloud service provider (like AWS, 
 ## Availability Zones ##
 
 Availability Zone (AZ) is a physically isolated data center or set of data centers within a region, designed to ensure high availability and fault tolerance by allowing applications to run across multiple locations, preventing a single point of failure. If one AZ experiences an outage (due to a natural disaster, power failure, or other issues), applications and data can continue to operate in the other AZs within the same region, ensuring minimal downtime and service disruption. 
+
+## Scalability ##
+
