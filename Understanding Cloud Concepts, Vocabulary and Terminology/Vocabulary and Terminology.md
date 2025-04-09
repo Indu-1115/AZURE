@@ -22,3 +22,28 @@ Availability Zone (AZ) is a physically isolated data center or set of data cente
 ## Scalability ##
 
 Scalability refers to the ability of the cloud platform to dynamically adjust resources to handle varying workload demands, ensuring optimal performance and availability. It is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
+
+
+## Elasticity ##
+
+Elasticity refers to the ability of a system to automatically and dynamically adjust resources (like compute, memory, and storage) up or down to match fluctuating workload demands, without manual intervention. This is a key characteristic of cloud computing, enabling efficient resource utilization and cost optimization.
+
+## Agility ##
+
+Agility refers to the ability to quickly adapt to changing business needs by rapidly provisioning and de-provisioning resources. In Cloud Computing, it involves the rapid deployment of resources and applications.
+
+## High Availability ##
+
+High Availability (HA) ensures applications remain accessible with minimal downtime through redundancy, fault tolerance, and failover mechanisms, utilizing services like Availability Sets and Zones. It ensures accessible for a high percentage of time, typically 99.9% or higher.
+
+## Fault Tolerance ##
+
+Fault Tolerance ensures a system continues operating despite component failures, enhancing reliability and availability by employing redundancy and failover mechanisms.It  is the ability of a system to continue operating without interruption in the presence of hardware or software failures.
+
+## Disaster Recovery ##
+
+Disaster Recovery involves the planning and processes for restoring and recovering data and systems after a natural or human-induced disaster.
+
+## Load Balancing ##
+
+Load Balancing is a cloud networking service that distributes network traffic across multiple servers (VMs or VMSS) to improve application performance, availability, and scalability. 
