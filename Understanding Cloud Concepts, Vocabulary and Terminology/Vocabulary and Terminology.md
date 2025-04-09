@@ -21,3 +21,4 @@ Availability Zone (AZ) is a physically isolated data center or set of data cente
 
 ## Scalability ##
 
+Scalability refers to the ability of the cloud platform to dynamically adjust resources to handle varying workload demands, ensuring optimal performance and availability. It is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
